@@ -1,0 +1,35 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: rgb(255, 255, 255);
+  background-color: black;
+}
+
+h1, h2 {
+  font-family: "Pixelify Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+h1{
+text-align: center;
+color: aliceblue;
+}
+
+#about {
+    color: cadetblue;
+   
+}
+
+#contact {
+    color: rgb(103, 124, 65);
+}
+
+ul {
+    font-style: italic;
+    font-size: medium;
+}
